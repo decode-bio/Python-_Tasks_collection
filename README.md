@@ -19,4 +19,6 @@ Objective: Sum of numbers from 1 to 50 using for loop
 
 Output:
 
-<img width="469" height="88" alt="image" src="https://github.com/user-attachments/assets/1c21a84c-62a8-4479-bc20-9b4bcb31db45" />
+<img width="443" height="99" alt="image" src="https://github.com/user-attachments/assets/b5d0d7f4-c8fe-401c-9718-9bd4e770216a" />
+
+
