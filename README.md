@@ -1,22 +1,12 @@
-# Assignment_2
+# Python Task
+This repository is the collection of tasks assigned durin the learning of python language.
 
-## Task_1
-Objective: Check if a number is Even or Odd
+## Assignment_1
+* [Assignment 1](https://github.com/snehad27/Python_tasks/blob/Assignment_1/README.md)
+* [Task 1](https://github.com/snehad27/Python_tasks/blob/Assignment_1/Task_1.py)
+* [Task 2](https://github.com/snehad27/Python_tasks/blob/Assignment_1/Task_2.py)
 
-
-Output:
-
-<img width="376" height="66" alt="image" src="https://github.com/user-attachments/assets/34f5d0e6-635a-4436-b3be-6cafdcc4a53c" />
-
-
-
-<img width="411" height="79" alt="image" src="https://github.com/user-attachments/assets/17761dc7-bcea-4977-8e97-97450527d6f1" />
-
-
-
-## Task_2
-Objective: Sum of numbers from 1 to 50 using for loop
-
-Output:
-
-<img width="469" height="88" alt="image" src="https://github.com/user-attachments/assets/1c21a84c-62a8-4479-bc20-9b4bcb31db45" />
+## Assignment_2
+* [Assignment 2](https://github.com/snehad27/Python_tasks/blob/Assignment_2/README.md)
+* [Task 1](https://github.com/snehad27/Python_tasks/blob/Assignment_2/A2_Task_1.py)
+* [Task 2](https://github.com/snehad27/Python_tasks/blob/Assignment_2/A2_Task_2.py)
